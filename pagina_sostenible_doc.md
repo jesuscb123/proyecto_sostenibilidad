@@ -7,4 +7,7 @@
 
 
 ## Propuestas para crear una web sostenible.
--
+- Diseño y código:
+    - Hacer una página minimalista.
+    - Reducción de plugins.
+    
